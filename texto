@@ -8,7 +8,7 @@
 <body>
     <script> 
     let nome = "Maria";
-    let idade = 18;
+    let idade = 20;
     if (idade <18) {
         document.write(nome + " a sua idade é:" + idade + ", você é de menor!");
     }
